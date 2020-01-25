@@ -44,6 +44,14 @@ def main():
     draw_bird(470, 550)
     draw_bird(310, 500)
     draw_bird(340, 570)
+    draw_bird(310, 500)
+    draw_bird(340, 570)
+    draw_bird(310, 500)
+    draw_bird(340, 570)
+    draw_bird(310, 500)
+    draw_bird(340, 570)
+    draw_bird(310, 500)
+    draw_bird(340, 570)
 
     arcade.finish_render()
 
